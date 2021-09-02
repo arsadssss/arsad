@@ -1,0 +1,694 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+header
+{
+    /* background-color: rgb(1, 42, 245); */
+    height: 135px;
+}
+.logo
+{
+    background-image: url(/icons/head4.png);
+    background-position: center;
+    background-size: cover;
+    height: 102%;
+    width: 30%;
+    float: left;
+}
+
+.contents
+{
+    float: right;
+    height: 100%;
+    width: 70%;
+}
+.social
+{
+    background-color: rgb(2, 10, 53);
+    height: 45px;
+    width: 100%;
+    padding-right: 100px;
+}
+.contact
+{
+    background-color: rgb(255, 255, 255);
+    height: 45px;
+    width: 100%;
+    padding-left: 266px;
+
+}
+.menus
+{
+    background-color: rgb(98, 0, 0);
+    height: 45px;
+    width: 100%;
+    padding-right: 100px;
+}
+header img
+{
+    height: 121px;
+    margin-left: 194px;
+}
+.fab
+{
+    color: white;
+    float: right;
+    font-size: 25px;
+    margin: 10px 20px 0px 0px;
+    cursor: pointer;
+}
+nav
+{
+    color: rgb(255, 0, 0);
+    margin-top: 10px;
+}
+.nav-item
+{
+    margin-top: 4px;
+    font-size: 15px;
+}
+.fas
+{
+    color: rgb(98, 0, 0);
+    float: left;
+    font-size: 24px;
+    margin-right: 10px;
+}
+.nmbr
+{
+
+    float: left;
+    width: 263px;
+    margin-top: 10px;
+}
+.mls
+{
+   
+    float: left;
+    width: 308px;
+    margin-top: 10px;
+}
+.home
+{
+    height: 520px;
+    width: 1366px;
+    background-image: url(/img/asds.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.head1
+{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    padding-top: 125px;
+    font-size: 45px;
+}
+.hm-btn 
+{
+    align-items: center;
+    position: relative;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    font-size: 20px;
+    background-color: black;
+    padding: 10px 15px 10px 15px;
+    margin-left: 542px;
+    margin-top: 72px;
+    border: 2px solid white;
+    border-radius: 27px;
+}
+
+.hm-btn:hover
+{
+    background-color: rgb(23, 164, 207);
+}
+.welcome
+{
+    height: 500px;
+    margin: 30px 100px 0px 100px;
+}
+.text1
+{
+    height:100%;
+    width: 570px;
+    float: left;
+
+}
+.wlcm-img
+{
+    height: 100%;
+    width: 570px;
+    /* background-color: rgb(255, 0, 0); */
+    float: right;
+
+}
+.text1 h3
+{
+    font-size: 42px;
+    font-family: 'Roboto Slab', serif;
+    color: black;
+}
+.para1
+{
+    font-size: 23px;
+    font-family: 'Roboto Slab', serif;
+    
+
+}
+.line1
+{
+    margin-left: -31px;
+}
+.works
+{
+    background-color: #cccccc;
+    height: 650px;
+    padding: 30px 100px 30px 100px;
+}
+.works2
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Roboto Slab', serif;
+}
+.line-works
+{
+    width: 100%;
+    height: 50px;
+    margin-top: -31px;
+}
+.card1
+{
+    background-color: rgb(255, 255, 255);
+    margin: 31px 50px 0px 50px;
+    height: 400px;
+    width: 283px;
+    
+    border-radius: 22;
+    border: 0px solid red;
+    border-radius: 6px;
+    float: left;
+}
+.card1:hover
+{
+    box-shadow: rgb(0 0 0) 0px 0px 6px;
+}
+.line-works img
+{
+    margin-bottom: 10px;
+}
+img {
+    margin-left: 459px;
+    padding-top: 5px;
+}
+.circle
+{
+    height: 140px;
+    width: 140px;
+    margin: 30px 65px 30px 65px;
+    border-radius: 50%;
+    background-color: blue;
+}
+h3 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    font-family:  'Roboto Slab', serif;
+}
+.para2
+{
+    font-family:  'Roboto Slab', serif;
+    text-align: center;
+    margin: 20px 10px 0px 10px;
+}
+.fas2{
+    font-size: 65px;
+    margin: 35px 0px 0px 32px;
+    color: white;
+
+}
+.circle:hover
+{
+    background-color: rgb(255, 166, 0);
+}
+.btn-sch
+{
+    background-color: rgb(23, 165, 200);
+    margin: 30px 0px 0px 436px;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    border-radius: 32px;
+    color: white;
+    font-size: 18px;
+}
+.btn-sch:hover
+{
+    box-shadow: rgb(0 0 0) 0px 0px 6px;
+    background-color: white;
+    color: black;
+}
+ul li a
+{
+    text-decoration: none;
+    
+    color: white;
+}
+ul li
+{
+    display: inline-block;
+    margin-left: 41px;
+    margin-top: 6px;
+}
+.wlcm-img img
+{
+    height: 434px;
+    margin-left: 10px;
+}
+.description
+{
+    height:350px;
+    background-image: url(/img/asds.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+}
+.des
+{
+    text-align: center;
+    font-size: 38px;
+    font-family:  'Roboto Slab', serif;
+    color: white;
+}
+.color-red
+{
+    color: rgb(255, 38, 0);
+}
+.services
+{
+    height: 680px;
+    background-color: #cccccc;
+    padding: 10px 100px 40px 100px;
+}
+.how
+{
+    font-size: 40px;
+}
+.our
+{
+    font-weight: lighter;
+}
+.card2
+{
+    background-color: rgb(255, 255, 255);
+    margin: 10px 50px 20px 50px;
+    box-shadow: rgb(0 0 0) 0px 0px 1px;
+    height: 250px;
+    width: 283px;
+    border-radius: 22;
+    border: 0px solid red;
+    border-radius: 6px;
+    float: left;
+}
+.card2:hover
+{
+    box-shadow: rgb(0 0 0) 0px 0px 6px;
+}
+.card2 h3{
+    font-size: 19px;
+}
+.store1
+{
+    height:100%;
+    width: 570px;
+    float: left;
+
+}
+.store2
+{
+    height: 100%;
+    width: 570px;
+    /* background-color: rgb(255, 0, 0); */
+    float:right;
+
+}
+.store1 img
+{
+    height: 365px;
+    margin-left: 10px;
+}
+.store2 h3{
+    text-align: inherit;
+}
+.storage {
+    height: 400px;
+    margin: 30px 100px 0px;
+}
+.description2
+{
+    height:300px;
+    background-image: url(/img/asds.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 20px 100px 50px 100px;
+}
+.des2
+{
+    text-align: center;
+    font-size: 25px;
+    font-family:  'Roboto Slab', serif;
+    color: white;
+}
+.description2 h2
+{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+.apoint
+{
+    color: rgb(255, 38, 0);
+}
+.contact-now
+{
+    height: 120px;
+    width: 55%;
+    margin: -60px 0px 0px 312px;
+    padding: 30px 80px 30px 80px;
+    box-shadow: rgb(0 0 0) 0px 0px 6px;
+    background-color: white;
+}
+.fa-phone-alt
+{
+    font-size: 57px;
+    margin-right: 25px;
+    color:rgb(255, 38, 0);
+}
+.nm
+{
+    font-weight: bolder;
+}
+.any
+{
+    font-size: 20px;
+    width: 300px;
+    margin-top: -8px;
+}
+
+.cont1
+{
+    height: 100%;
+    width: 45%;
+    float: left;
+}
+.cont2
+{
+    height: 100%;
+    width: 0.5%;
+    margin-left: 4%;
+    margin-right: 4%;
+    float: left;
+    background-color: rgb(155, 155, 155);
+}
+.cont3
+{
+    height: 100%;
+    width: 45%;
+    float: left;
+    
+}
+.cntct-now
+{
+    margin-top: 5px;
+    border: 1px solid grey;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 20px;
+    width: 261px;
+    height: 49px;
+    border-radius: 27px;
+    /* padding: 5px 21px 5px 21px;  */
+}
+.cntct-now:hover
+{
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(0 0 0) 0px 0px 6px;
+    color: rgb(0, 0, 0);
+}
+.form
+{
+    height: 630px;
+    margin-top: 40px;
+    background-color: #cccccc;
+    padding: 30px 100px 00px 100px;
+}
+.form-img
+{
+    height:100%;
+    width: 570px;
+    float: left;
+}
+.form-img img
+{
+    height: 555px;
+    margin-left: 10px;
+}
+.forum
+{
+    height: 92%;
+    width: 521px;
+   background-color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 36px;
+    float:right;
+}
+.forum:hover
+{
+    box-shadow: rgb(0 0 0) 0px 0px 6px;
+}
+.forum h3
+{
+    font-family:  'Roboto Slab', serif;
+   
+}
+.inpt
+{
+    margin-top: 25px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    width: 222px;
+    padding: 5px 22px 5px 22px;
+}
+.drop
+{
+    margin-top: 25px;
+    border: 1px solid grey;
+    width: 222px;
+    border-radius: 20px;
+    padding: 5px 21px 5px 21px; 
+}
+.txtarea
+{
+    margin-top: 25px;
+    border: 1px solid grey;
+    width: 444px;
+    border-radius: 20px;
+    padding: 5px 21px 5px 21px; 
+}
+.submit
+{
+    margin-top: 25px;
+    border: 1px solid grey;
+    background-color: rgb(255, 255, 255);
+    width: 444px;
+    border-radius: 20px;
+    padding: 5px 21px 5px 21px; 
+}
+.submit:hover
+{
+    background-color: rgb(255, 124, 37);
+    box-shadow: rgb(0 0 0) 0px 0px 6px;
+}
+.inpt:hover
+{
+    
+    box-shadow: rgb(0 0 0) 0px 0px 6px;
+}
+.drop:hover
+{
+  
+    box-shadow: rgb(0 0 0) 0px 0px 6px;
+}
+.txtarea:hover
+{
+    
+    box-shadow: rgb(0 0 0) 0px 0px 6px;
+}
+.nav-bar
+{
+    height: 523px;
+    padding: 0px 100px 10px 100px;
+    background-color: rgb(73, 6, 6);
+}
+.nav1
+{
+    height: 100%;
+    width: 21%;
+    padding: 50px 30px 50px 0px;
+    margin-left:3% ;
+    float: left;
+    color: white;
+    background-color:rgb(46, 2, 2) ;
+}
+.nav-logo
+{
+    width: 24%;
+}
+.nav-logo img
+{
+    height: 200px;
+    margin-left: 35px;
+    margin-bottom: -134px;
+}
+.line2
+{
+    height: 20px;
+    width: 183px;
+}
+.nav-logo p
+{
+    color: white;
+    margin-top: 90px;
+    margin-right: -17px;
+    font-size: 14px;
+}
+.nav1 h4{
+    text-align: center;
+    margin-left: 16px;
+    margin-top: 11px;
+}
+/* .h4-nav img
+{
+    margin-left: 40px;
+    height: 125px;
+    width: 156px;
+    margin-top: -59px;
+} */
+/* .nav-icon
+{
+    margin-top: -24px;
+} */
+.para3
+{
+    color: white;
+    margin-top: 8px;
+    font-size: 14px;
+    text-align: center;
+    font-family: "Roboto Slab", serif;
+    margin-left: 32px;
+}
+.us
+{
+    margin-top: 12px;
+}
+.cnt
+{
+    text-align: center;
+    margin-left: 36px;
+    font-size: 16px;
+}
+.nav2
+{
+    height: 60px;
+    margin-top: -23px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color:rgb(46, 2, 2);
+}
+.copyright
+{
+    color: rgb(182, 182, 182);
+    margin-left: 35px;
+}
+.arsad
+{
+    font-weight: bold;
+    color: yellow;
+}
+.line3
+{
+    width: 150px;
+    margin-left: 40px;
+    margin-top: -36px;
+}
+.foot1
+{
+    height: 383px;
+    
+    margin-top: 62px;
+}
+.nav1 input
+{
+    margin-left: -3px;
+    height: 26px;
+    width: 159px;
+    padding: 5px;
+    font-size: 12px;
+    float: left;
+}
+.plane
+{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+.newsltr
+{
+    background-color: rgb(3, 186, 192);
+    height: 26px;
+    margin-left: 20px;
+    
+}
+
+.foot2
+{
+    height: 383px;
+    margin-top: 41px;
+}
+.quick-links
+{
+    font-family: "Roboto Slab", serif;
+    font-weight: 300;
+    font-size: 14px;
+    margin-left: 40px;
+    margin-top: 11px;
+}
+.quick2
+{
+    text-decoration: none;
+    color: white;
+    margin-top: 2px;
+    font-family: "Roboto Slab", serif;
+}
+.foot3
+{
+    height: 383px;
+    margin-top: 69px;
+}
+.nav-foot3
+{
+    font-family: "Roboto Slab", serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 39px;
+}
+.android-logo
+{
+    height: 72px;
+    margin-left: 36px;
+}
